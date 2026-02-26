@@ -14,6 +14,8 @@ Change directory to the root of this repository. Execute:
 
 `docker run --rm --name ai_msc_robotics_assignments -p 9090:9090 -p 8888:8888 -p 8000:8000 -p 8080:8080 ai_msc_robotics_assignments`
 
+Visit [http://127.0.0.1:8888/lab](http://127.0.0.1:8888/lab) to access the development environment.
+
 ### Stop/Kill
 
 Press Ctrl+C 2-3 times to exit the container. Execute:
