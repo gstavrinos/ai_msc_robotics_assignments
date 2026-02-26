@@ -64,8 +64,8 @@ RUN pip install --upgrade \
   opencv-python \
   Pillow \
   pymongo \
-  PySide2 \
-  PyQt5 \
+  PySide6 \
+  PyQt6 \
   rosdep \
   sidecar \
   && pip cache purge
